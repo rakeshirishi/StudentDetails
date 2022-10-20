@@ -28,8 +28,8 @@
 <label> Phone no :</label>
 <input type="text" value="+91" size="2"/>
 <input type="text" size="10"/> <br><br>
-<label> Address :</label><br>
-<textarea col="100" rows="10"></textarea><br><br>
+<label> Address : </label><br>
+<textarea col="10" rows="10"></textarea><br><br>
 <label> Pin code :</label>
 <input type="text" size="6"/> <br><br>
 <label> Email :</label>
