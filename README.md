@@ -1,6 +1,6 @@
 <html>
 <head>
-	Student Lofin
+	Student Login
 </head>
 <body>
 <form>
