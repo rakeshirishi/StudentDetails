@@ -34,7 +34,7 @@
 		 		<input type="text" size="10"/> <br><br>
 			
 			<label> Address : </label><br>
-		 		<textarea col="100" rows="100"></textarea><br><br>
+		 		<textarea id="Student" name="Student" rows="4" cols="50"><br><br>
 			
 			<label> Pin code :</label>
 		 		<input type="text" size="6"/> <br><br>
