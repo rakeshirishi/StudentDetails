@@ -24,7 +24,7 @@
 <label> Gender :</label>
  <input type="radio" value="m" name="Gender"/>Male
  <input type="radio" value="f" name="Gender"/>Female
- <input type="radio" value="o" name="Gender"/>Other <br><br>
+ <input type="radio" value="o" name="Gender"/>other <br><br>
 <label> Phone no :</label>
  <input type="text" value="+91" size="2"/>
  <input type="text" size="10"/> <br><br>
