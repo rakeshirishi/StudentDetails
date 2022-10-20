@@ -1,27 +1,26 @@
-<!DOCTYPE html>
 <html>
 <head>
-	<title>Student Lofin</title>
+	Student Lofin
 </head>
 <body>
-	<form>
-		<fieldset >
-			<legend>Student Login Form</legend>
-			<label> First Name :</label>
-				<input type="text" size="20"/> <br><br>
-			<label> Middle Name :</label>
-				<input type="text" size="20"/> <br><br>
-			<label> Last Name :</label>
-				<input type="text" size="20"/> <br><br>
-			<label> Course :</label>
-				<select>
-					<option value="Course">Select</option>
-					<option value="BCA">BCA</option>
-					<option value="BBA">BBA</option>
-					<option value="B.sc">B.sc</option>
-					<option value="MCA">MCA</option>
-					<option value="MBA">MBA</option>
-				</select><br><br>
+<form>
+<fieldset >
+<legend>Student Login Form</legend>
+<label> First Name :</label>
+<input type="text" size="20"/> <br><br>
+<label> Middle Name :</label>
+<input type="text" size="20"/> <br><br>
+<label> Last Name :</label>
+<input type="text" size="20"/> <br><br>
+<label> Course :</label>
+<select>
+<option value="Course">Select</option>
+<option value="BCA">BCA</option>
+<option value="BBA">BBA</option>
+<option value="B.sc">B.sc</option>
+<option value="MCA">MCA</option>
+<option value="MBA">MBA</option>
+</select><br><br>
 			<label> Gender :</label>
 				<input type="radio" value="m" name="Gender"/>Male
 				<input type="radio" value="f" name="Gender"/>Female
